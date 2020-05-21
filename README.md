@@ -4,7 +4,8 @@ This is implementation of a unity environment where the agent has to learn to co
 # Local Installation
 1) Clone or download this repo : https://github.com/udacity/deep-reinforcement-learning/tree/master/
 2) Then download the environment and unzip it into this folder : https://github.com/udacity/deep-reinforcement-learning/tree/master/p1_navigation
-3) Then you are good to go.
+3) Make sure all of the files including the agent , navigation and model are in the same folder.
+4) Then you are good to go.
 
 # Required Libraries
 1) Matplotlib - pip install matplotlib. 
