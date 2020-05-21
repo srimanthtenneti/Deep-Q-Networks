@@ -12,3 +12,5 @@ This is a linux implementation of a unity environment where the agent has to lea
 2) Numpy - pip install numpy
 3) PyTorch - https://pytorch.org/get-started/locally/
 
+# Initial States of the Environment
+
