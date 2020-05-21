@@ -1,5 +1,5 @@
 # Deep-Q-Networks
-This is implementation of a unity environment where the agent has to learn to collect bananas. The implemented code is a deep Q neural network.
+This is a linux implementation of a unity environment where the agent has to learn to collect bananas. The implemented code is a deep Q neural network.
 
 # Local Installation
 1) Clone or download this repo : https://github.com/udacity/deep-reinforcement-learning/tree/master/
